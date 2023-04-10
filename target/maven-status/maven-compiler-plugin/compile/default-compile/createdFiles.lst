@@ -1,0 +1,12 @@
+com/aomsir/entity/TestEntity1.class
+com/aomsir/controller/TestController.class
+com/aomsir/entity/TestEntity.class
+com/aomsir/common/JacksonObjectMapper.class
+com/aomsir/entity/User.class
+com/aomsir/config/WebMvcConfig.class
+com/aomsir/common/GlobalExceptionHandler.class
+com/aomsir/config/RedisConfig.class
+com/aomsir/service/TestServiceImpl.class
+com/aomsir/TestApplication.class
+com/aomsir/common/CustomException.class
+com/aomsir/common/Response.class
